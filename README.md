@@ -1,4 +1,6 @@
-<h2>  Hi, I'm Fátima! <img src="https://media.giphy.com/media/ZZGo2kEsadDP2VtFXn/giphy.gif" width="100" ></h2>
+<h1>  Hi, I'm Fátima! <img src="https://media.giphy.com/media/ZZGo2kEsadDP2VtFXn/giphy.gif" width="100" ></h1>
+
+<h3> Data Science Biotechnologist </h3>
 
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
@@ -6,6 +8,18 @@
 
 [![Linkedin: Fátima Ruiz de la Bastida](https://img.shields.io/badge/-FátimaRuizdelaBastida-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/f%C3%A1tima-ruiz-de-la-bastida-b9364a205/)
 
+<h3>Some info about me...</h3>
+
+```python
+fatimardlb = {
+  pronouns: ["she", "her"],
+  code: [Python, R, SQL, Linux, HTML],
+  languages: [Spanish, English, French],
+  degree: "Biotechnology",
+  masters_degree: "Bioinformatics and Computational Biology",
+  currently reading: "The Art of Data Science"
+}
+```
 
 
 <!--
